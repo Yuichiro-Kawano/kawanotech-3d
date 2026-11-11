@@ -4,3 +4,4 @@
 - `matsubara/` — 日本郵便輸送（仮称）松原営業所社屋新築工事 鉄骨躯体モデル（ブラウザ3Dビューア + IFC）
 - `shimamura-toyokawa/` — 株式会社しまむら 豊川商品センター 3F プールライン 据付3Dイメージ
 - `ykk-nhontrach-md/` — YKK Vietnam Nhon Trach 第4棟 MD自動倉庫 3Dモデル
+- `ykk-nhontrach-fg/` — YKK Vietnam Nhon Trach 第4棟 製品自動倉庫 3Dモデル
